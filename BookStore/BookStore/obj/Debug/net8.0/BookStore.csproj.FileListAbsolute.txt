@@ -13,6 +13,7 @@ D:\Dotnet\AspNetCoreMVC-3.1\BookStore\BookStore\obj\Debug\net8.0\BookStore.cspro
 D:\Dotnet\AspNetCoreMVC-3.1\BookStore\BookStore\obj\Debug\net8.0\BookStore.MvcApplicationPartsAssemblyInfo.cache
 D:\Dotnet\AspNetCoreMVC-3.1\BookStore\BookStore\obj\Debug\net8.0\BookStore.RazorAssemblyInfo.cache
 D:\Dotnet\AspNetCoreMVC-3.1\BookStore\BookStore\obj\Debug\net8.0\BookStore.RazorAssemblyInfo.cs
+D:\Dotnet\AspNetCoreMVC-3.1\BookStore\BookStore\obj\Debug\net8.0\BookStore.sourcelink.json
 D:\Dotnet\AspNetCoreMVC-3.1\BookStore\BookStore\obj\Debug\net8.0\staticwebassets.build.json
 D:\Dotnet\AspNetCoreMVC-3.1\BookStore\BookStore\obj\Debug\net8.0\staticwebassets.development.json
 D:\Dotnet\AspNetCoreMVC-3.1\BookStore\BookStore\obj\Debug\net8.0\staticwebassets\msbuild.BookStore.Microsoft.AspNetCore.StaticWebAssets.props
